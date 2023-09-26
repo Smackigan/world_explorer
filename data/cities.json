@@ -37,28 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Saint John",
-      "country": "Jersey",
-      "emoji": "🇯🇪",
-      "date": "2023-09-26T07:40:18.585Z",
-      "notes": "test",
-      "position": {
-        "lat": "49.242633135102",
-        "lng": "-2.1258028939945017"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Helechosa de los Montes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-26T08:33:17.850Z",
+      "cityName": "Grobina",
+      "country": "Latvia",
+      "emoji": "🇱🇻",
+      "date": "2023-09-26T09:25:53.347Z",
       "notes": "",
       "position": {
-        "lat": "39.31976670113538",
-        "lng": "-4.8117879562892405"
+        "lat": "56.529554747647836",
+        "lng": "21.11026831855055"
       },
-      "id": 98443200
+      "id": 98443199
     }
   ]
 }
