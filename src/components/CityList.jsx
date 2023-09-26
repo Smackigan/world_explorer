@@ -14,8 +14,8 @@ function CityList() {
 		return <Message message="Add your first city by clicking on the map" />;
 
 	CityList.propTypes = {
-		cities: PropTypes.array.isRequired,
-		isLoading: PropTypes.bool.isRequired,
+		cities: PropTypes.array,
+		isLoading: PropTypes.bool,
 	};
 
 	return (
